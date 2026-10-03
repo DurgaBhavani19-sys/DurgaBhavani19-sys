@@ -1,6 +1,6 @@
 # Hi, I'm Durga Bhavani Challagonda
 
-### AI/ML Engineer | Generative AI | Agentic AI | MLOps
+### AI/ML Engineer | Forward Deployed Engineer Generative AI | Agentic AI | MLOps
 
 AI/ML Engineer with 4+ years of experience building machine learning, Generative AI, RAG, and agentic AI systems across healthcare, financial services, and retail.
 
