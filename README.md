@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Durga Bhavani Challagonda
 
-<!--
-**DurgaBhavani19-sys/DurgaBhavani19-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | Generative AI | Agentic AI | MLOps
 
-Here are some ideas to get you started:
+AI/ML Engineer with 4+ years of experience building machine learning, Generative AI, RAG, and agentic AI systems across healthcare, financial services, and retail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on building production-ready AI systems — from data and model development through evaluation, deployment, and monitoring.
+
+## Technical Focus
+
+- Generative AI & Large Language Models
+- Agentic AI & Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning & Deep Learning
+- MLOps & Production AI
+- AI Evaluation, Safety & Observability
+
+## Tech Stack
+
+**Languages:** Python, SQL
+
+**GenAI & Agents:** LangChain, LangGraph, CrewAI, OpenAI APIs, Hugging Face, RAG, MCP
+
+**Machine Learning:** PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, CatBoost
+
+**Vector Databases:** Pinecone, FAISS, Chroma, Milvus
+
+**MLOps:** MLflow, Airflow, Docker, Kubernetes, FastAPI, GitHub Actions, Terraform
+
+**Cloud:** AWS, Microsoft Azure, Google Cloud Platform
+
+## Featured Projects
+
+🚧 Projects are currently being added.
+
+### Clinical Agentic RAG Assistant
+Multi-agent healthcare AI system combining RAG, agent orchestration, tool integration, evaluation, and safety guardrails.
+
+### Financial Research & Risk Intelligence Assistant
+RAG-based AI system for document intelligence, summarization, semantic search, and risk analysis.
+
+### Demand Forecasting & Retail Analytics
+End-to-end machine learning pipeline for demand forecasting, customer analytics, explainability, and production deployment.
+
+## Certifications
+
+- AWS Certified Machine Learning – Specialty
+- Microsoft Certified: Azure AI Engineer Associate
+- Google Cloud Professional Machine Learning Engineer
+
+## Currently Exploring
+
+Advanced agentic AI architectures, LLM evaluation, MCP-based tool integration, and production GenAI systems.
